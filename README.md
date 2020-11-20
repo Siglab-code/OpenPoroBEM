@@ -7,4 +7,13 @@ gfortran compiler:
 $ sudo apt install gfortran-9
 ```
 
+Compile from source code:
+```
+$ gfortran OpenPoroBEM.f90 -o OpenPoroBEM 
+```
+
+Run application:
+```
+$ ./ OpenPoroBEM 
+```
  
