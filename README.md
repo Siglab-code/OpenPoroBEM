@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## OpenPoroBEM
 
 You can use the [editor on GitHub](https://github.com/Siglab-code/OpenPoroBEM/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
